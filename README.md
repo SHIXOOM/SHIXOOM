@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there 👋 I am Shady, currently a sophomore at Egypt University of Informatics
+I am currently persuing a career in AI/Data Science. I have done two research papers so far with one of them accepted. I have also made some fun projects using Deep Learning, Databases, and different languages and programming paradigms for practicing and improving my skills 
 
 <!--
 **SHIXOOM/SHIXOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
