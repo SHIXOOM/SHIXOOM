@@ -1,8 +1,7 @@
-## Hey there 👋 I am Shady, currently a sophomore at Egypt University of Informatics
+## Hey there 👋 I am Shady, a junior CS student at Egypt University of Informatics
 I am currently persuing a career in AI/Data Science. I have done two research papers so far where I presented one of them in ICCCN 2024 UK Conference. I have also made some fun projects using Deep Learning, Databases, and different languages and programming paradigms for practicing and improving my skills
 
-
-🔭 I am currently working on a Customer Retention project @ Attijariwafa Bank, developing a customer churn prediction model alongside a customer segmentation model. This project has completed one development cycle so far and thankfully it's taken seriously and will be deployed and used in the bank.
+My main focus doing any project is not just improving my current set of skills, but mainly to face new challenges and push myself in new areas to further expand my knowledge, skills, and experience.
 <!--
 **SHIXOOM/SHIXOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
