@@ -1,6 +1,6 @@
 # Shady Ali 🚀
 
-Welcome to my GitHub profile! I'm a highly motivated Computer Science student at the University of Minnesota, Twin Cities (expected graduation: June 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.92 at EUI) and a proven track record of applying my skills to real-world problems.  I'm enthusiastic about contributing to innovative projects and collaborating with other developers.
+Welcome to my GitHub profile! I'm a highly motivated Computer Science student at the University of Minnesota, Twin Cities (expected graduation: June 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.92 at EUI) and a proven track record of applying my skills to real-world problems.  I'm enthusiastic about contributing to innovative projects and collaborating with other developers.
 
 ## 👨‍💻 About Me
 
