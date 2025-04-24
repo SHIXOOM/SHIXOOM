@@ -1,8 +1,12 @@
-# Shady Ali 🚀
-
+# Shady Ali
 Welcome to my GitHub profile! I'm a highly motivated Computer Science student at the University of Minnesota, Twin Cities (expected graduation: June 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.9 at EUI) and a proven track record of applying my skills to real-world problems.  I'm enthusiastic about contributing to innovative projects and collaborating with other developers.
 
-## 👨‍💻 About Me
+## Whats New
+
+*  I recently made my first ever open-source contribution for CrewAI-Tools. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
+*  I am currently working as a Machine Learning Engineer at Euclid Solutions, building agentic and ML-based solutions for businesses.  
+
+## About Me
 
 I'm a quick learner with experience in developing and deploying machine learning models, building scalable applications, and conducting research in AI.  I enjoy tackling challenging problems and continuously expanding my skillset. I'm particularly interested in:
 
@@ -11,7 +15,7 @@ I'm a quick learner with experience in developing and deploying machine learning
 *   **Natural Language Processing (NLP):** Sentiment Analysis, Intent Recognition, Text Processing
 *   **Software Development:**  Software Analysis, Design, and development, API design, scalable systems, database systems and systems engineering.
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Here are some of my key projects, showcasing my skills and interests.  Click the links for more details and code!
 
@@ -23,7 +27,7 @@ Here are some of my key projects, showcasing my skills and interests.  Click the
 
 * **Customer Retention Project (Attijariwafa Bank):** (Aug - Nov 2024) Led a data science project to improve customer retention and reduce churn. Involved data extraction, cleaning, engineering, and the development of both clustering and churn prediction models. Evaluated various algorithms including Logistic Regression, SGD, Random Forests, Gradient Boosting, and LSTMs. Presented findings to non-technical stakeholders. *This was a professional internship; a public repository may not be available.*
 
-## 🔬 Research
+## Research
 
 I'm also actively involved in research:
 
