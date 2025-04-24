@@ -7,11 +7,9 @@ Welcome to my GitHub profile! I'm a highly motivated Computer Science student at
 I'm a quick learner with experience in developing and deploying machine learning models, building scalable applications, and conducting research in AI.  I enjoy tackling challenging problems and continuously expanding my skillset. I'm particularly interested in:
 
 *   **Machine Learning:**  Clustering, Classification, Regression, Model Evaluation, Churn Prediction
-*   **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Transfer Learning
+*   **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Transfer Learning, LLMs
 *   **Natural Language Processing (NLP):** Sentiment Analysis, Intent Recognition, Text Processing
-*   **Large Language Models (LLMs):**  Experience with GPT, LLaMA, Phi, Mistral, Gemini, and using APIs like Groq and OpenAI.
-*   **Software Development:**  Full-stack development, API design, scalable systems, and database management.
-*   **Functional Programming**: Experience with the concepts of First Class functions, Higher Order Functions, and immutability using Scala.
+*   **Software Development:**  Software Analysis, Design, and development, API design, scalable systems, database systems and systems engineering.
 
 ## 🌟 Featured Projects
 
