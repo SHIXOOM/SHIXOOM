@@ -1,18 +1,19 @@
 # Shady Ali
-Welcome to my GitHub profile! I'm a highly motivated Computer Science student at the University of Minnesota, Twin Cities (expected graduation: June 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.9 at EUI) and a proven track record of applying my skills to real-world problems.  I'm enthusiastic about contributing to innovative projects and collaborating with other developers.
+Hello there! I'm a Computer Science student at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.9 at EUI) and a proven track record of applying my skills to real-world problems.  
+I am always looking for new opportunities to exchange knowledge, and collaborate on exciting research and ML projects where I can provide a significant value while learning and expanding my knowledge and skill set more. So please don't hesitate to contact me with any idea or project you have in mind!
 
-## Whats New
-
-*  I recently made my first ever open-source contribution for CrewAI-Tools. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
-*  I am currently working as a Machine Learning Engineer at Euclid Solutions, building agentic and ML-based solutions for businesses.  
+## Recent updates about me
+*  I started a new project with ***Seif Pharmacies***, $2^{nd}$ biggest pharmacy chain in Egypt, for employee appraisal and shifts scheduling
+*  I made my first ever open-source contribution for ***CrewAI-Tools***. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
+*  I am currently working as a Machine Learning Engineer at ***Euclid Solutions***, building agentic and ML-based solutions for businesses.  
 
 ## About Me
 
-I'm a quick learner with experience in developing and deploying machine learning models, building scalable applications, and conducting research in AI.  I enjoy tackling challenging problems and continuously expanding my skillset. I'm particularly interested in:
+I'm a quick learner with experience in developing machine learning models, building applications, and conducting research in AI.  I enjoy tackling challenging problems and continuously expanding my skillset. I'm particularly interested in:
 
-*   **Machine Learning:**  Clustering, Classification, Regression, Model Evaluation, Churn Prediction
-*   **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Transfer Learning, LLMs
-*   **Natural Language Processing (NLP):** Sentiment Analysis, Intent Recognition, Text Processing
+*   **Machine Learning:** mainly classical ML, NLP, mathematical optimization, and statistics.
+*   **Deep Learning:** I had exposure to LSTMs, CNNs, MLPs, Generative models.
+*   **Natural Language Processing (NLP):** Sentiment Analysis, Intent Recognition, Text Processing, LLMs and Agentic Systems.
 *   **Software Development:**  Software Analysis, Design, and development, API design, scalable systems, database systems and systems engineering.
 
 ## Featured Projects
@@ -37,25 +38,26 @@ I'm also actively involved in research:
 
 *   **MotionCaution: Smartphone Application for Securing the Motions of Real-Time Vehicles (Published in ICCCNet-2024):**  Developed a proof-of-concept application using Kotlin and Google Cloud Platform APIs, and contributed to the theoretical explanation of Decision Tree models in the paper.
 
-## 🛠️ Skills
-
-*   **Languages:** Python, C++, C, Java, Scala, SQL, LaTeX, Assembly
-*   **Frameworks:** PyTorch, Pandas, Polars, NumPy, TensorFlow, Keras, Scikit-learn, Imblearn, Matplotlib, Seaborn, Plotly, FastAPI, OpenAI API, Groq API, Google Generative AI
-*   **Machine Learning/Deep Learning:** Clustering, Deep Learning (CNNs, RNNs, LSTMs, Transformers), NLP (Sentiment Analysis, Churn Prediction), LLMs (GPT, LLaMA, Phi, Mistral, Gemini)
-*   **Developer Tools:** Git, Docker, Jupyter, CLion, Google Cloud Platform, VS Code, Android Studio, IntelliJ, Overleaf, Ollama
+## Skills
+These sets include frameworks, languages, and tools that I both am proficient in and had general exposure to in projects, coursework, or work.  
+*   **Languages:** Python, C++, C, Scala, SQL, LaTeX, Java.
+*   **Frameworks:** PyTorch, Pandas, Polars, NumPy, TensorFlow, Keras, Scikit-learn, Imblearn, Matplotlib, Seaborn, Plotly, FastAPI, OpenAI API, Google Generative AI, LangChain, LangGraph, CrewAI.
+*   **Developer Tools:** Git, Docker, Jupyter, CLion, Google Cloud Platform, VS Code, Android Studio, IntelliJ, Overleaf, Ollama, LM Studio.
 * **Databases:** PostgreSQL
 
-## 🏆 Experience
+## Experience
 
+*   **Junior Machine Learning Engineer:** Euclid Solutions (Mar 2025 - Present)  
 *   **Undergraduate Applied Machine Learning Researcher:** Zewail City Computing Society (Nov 2024 - Present)
 *   **Data Science Intern:** Attijariwafa Bank (Aug 2024 - Nov 2024)
 
-## 🏅 Extracurricular Activities
+## Extracurricular Activities
 
 *   **Public Relations Team Member:** TEDxEUI (Dec 2023 - Oct 2024)
 *   **Member:** EUI International Collegiate Programming Contest Club (ICPC) (Oct 2022 - Oct 2024) - *Ranked 1st in 2024's ECPC Qualifications.*
+*   **Member:** EUI Math Club, IEEE.
 
-## 📫 Contact
+## Contact
 
 *   **Email:** [shadyali20004@gmail.com](mailto:shadyali20004@gmail.com)
 *   **LinkedIn:** [LinkedIn](www.linkedin.com/in/shady-ali)
