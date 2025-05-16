@@ -33,7 +33,7 @@ Here are some of my key projects, showcasing my skills and interests.  Click the
 
 I'm also actively involved in research:
 
-*   **[PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms](https://github.com/SHIXOOM/PAIR) (Under Publication):**  Leveraged LLMs to significantly improve partner selection in evolutionary algorithms, achieving a 62% reduction in the optimality gap. Developed scalable and well-documented code.
+*   **[PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms](https://github.com/SHIXOOM/PAIR) (Accepted at *International Journal of Computational Intelligence Systems*):**  Leveraged LLMs to significantly improve partner selection in evolutionary algorithms, achieving a 62% reduction in the optimality gap. Developed scalable and well-documented code.
 
 *   **Time Series and Predictive Analysis of Egypt's Net Migration Patterns (Under Publication):** Conducted a comprehensive analysis of Egypt's net migration patterns using statistical and economic methods.
 
