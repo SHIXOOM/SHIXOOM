@@ -1,5 +1,5 @@
 # Shady Ali
-Hello there! I'm a Computer Science student at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, Deep Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.9 at EUI) and a proven track record of applying my skills to real-world problems.  
+Hello there! I'm a Computer Science student, dual enrolled at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, and Software Engineering.  I have a strong academic record (GPA: 4.0 at UMN, 3.9 at EUI) and a proven track record of applying my skills to real-world problems.  
 I am always looking for new opportunities to exchange knowledge, and collaborate on exciting research and ML projects where I can provide a significant value while learning and expanding my knowledge and skill set more. So please don't hesitate to contact me with any idea or project you have in mind!
 
 ## Recent updates about me
