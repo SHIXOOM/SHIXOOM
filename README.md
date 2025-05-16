@@ -3,7 +3,8 @@ Hello there! I'm a Computer Science student at the University of Minnesota, Twin
 I am always looking for new opportunities to exchange knowledge, and collaborate on exciting research and ML projects where I can provide a significant value while learning and expanding my knowledge and skill set more. So please don't hesitate to contact me with any idea or project you have in mind!
 
 ## Recent updates about me
-*  I started a new project with ***Seif Pharmacies***, $2^{nd}$ biggest pharmacy chain in Egypt, for employee appraisal and shifts scheduling
+*  PAIR has been accepted at Springer's International Journal of Computational Intelligence Systems (Q2 journal).
+*  I started a new project with ***Seif Pharmacies***, $2^{nd}$ biggest pharmacy chain in Egypt, for employee appraisal and shifts scheduling.
 *  I made my first ever open-source contribution for ***CrewAI-Tools***. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
 *  I am currently working as a Machine Learning Engineer at ***Euclid Solutions***, building agentic and ML-based solutions for businesses.  
 
