@@ -8,15 +8,6 @@ I am always looking for new opportunities to exchange knowledge, and collaborate
 *  I made my first ever open-source contribution for ***CrewAI-Tools***. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
 *  I am currently working as a Machine Learning Engineer at ***Euclid Solutions***, building agentic and ML-based solutions for businesses.  
 
-## About Me
-
-I'm a quick learner with experience in developing machine learning models, building applications, and conducting research in AI.  I enjoy tackling challenging problems and continuously expanding my skillset. I'm particularly interested in:
-
-*   **Machine Learning:** mainly classical ML, NLP, mathematical optimization, and statistics.
-*   **Deep Learning:** I had exposure to LSTMs, CNNs, MLPs, Generative models.
-*   **Natural Language Processing (NLP):** Sentiment Analysis, Intent Recognition, Text Processing, LLMs and Agentic Systems.
-*   **Software Development:**  Software Analysis, Design, and development, API design, scalable systems, database systems and systems engineering.
-
 ## Featured Projects
 
 Here are some of my key projects, showcasing my skills and interests.  Click the links for more details and code!
@@ -41,10 +32,10 @@ I'm also actively involved in research:
 
 ## Skills
 These sets include frameworks, languages, and tools that I both am proficient in and had general exposure to in projects, coursework, or work.  
-*   **Languages:** Python, C++, C, Scala, SQL, LaTeX, Java.
-*   **Frameworks:** PyTorch, Pandas, Polars, NumPy, TensorFlow, Keras, Scikit-learn, Imblearn, Matplotlib, Seaborn, Plotly, FastAPI, OpenAI API, Google Generative AI, LangChain, LangGraph, CrewAI.
+*   **Languages:** Python, C++, C, Scala, SQL, LaTeX.
+*   **Frameworks:** PyTorch, Pandas, Polars, NumPy, TensorFlow, Keras, Scikit-learn, Matplotlib, Seaborn, Plotly, FastAPI, LangChain, LangGraph, CrewAI.
 *   **Developer Tools:** Git, Docker, Jupyter, CLion, Google Cloud Platform, VS Code, Android Studio, IntelliJ, Overleaf, Ollama, LM Studio.
-* **Databases:** PostgreSQL
+* **Databases:** PostgreSQL, Supabase
 
 ## Experience
 
@@ -62,6 +53,5 @@ These sets include frameworks, languages, and tools that I both am proficient in
 
 *   **Email:** [shadyali20004@gmail.com](mailto:shadyali20004@gmail.com)
 *   **LinkedIn:** [LinkedIn](www.linkedin.com/in/shady-ali)
-* **Phone:** +20 10 9997 7627
 
 I'm always open to collaborating on interesting projects.  Feel free to reach out!
