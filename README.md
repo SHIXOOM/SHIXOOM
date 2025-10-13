@@ -1,5 +1,5 @@
 # Shady Ali
-A Computer Science student, dual enrolled at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, and Software Engineering. (GPA: 4.0 at UMN, 3.9 at EUI)
+A Computer Science student, dual enrolled at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics, with a passion for AI Research, Mathematics, Machine Learning, and Software Engineering. (GPA: 4.0 at UMN, 3.9 at EUI)
 
 ## Recent updates about me
 * I started doing directed research in Minnesota NLP lab for Fall 2025!
