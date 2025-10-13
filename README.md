@@ -2,11 +2,12 @@
 A Computer Science student, dual enrolled at the University of Minnesota, Twin Cities (expected graduation: May 2026) and Egypt University of Informatics (expected graduation: June 2026), with a passion for AI Research, Mathematics, Machine Learning, and Software Engineering. (GPA: 4.0 at UMN, 3.9 at EUI)
 
 ## Recent updates about me
+* I started doing directed research in Minnesota NLP lab for Fall 2025!
+* I started working part-time at UMN's AI Makerspace!
+* I'm currently in the United States studying at the University of Minnesota, Twin Citites, as a full-time student!
 *  I recently started an exciting journey of learning and applying Language Modeling and Word Vector representationn from the very beginning, check out the [full repo!](https://github.com/SHIXOOM/Language-Modeling-from-Scratch/tree/main)
 *  **PAIR** has been accepted at Springer's *International Journal of Computational Intelligence Systems* (Q2 journal).
-*  I started a new project with ***Seif Pharmacies***, $2^{nd}$ biggest pharmacies chain in Egypt, for employee appraisal and shifts scheduling.
-*  I made my first ever open-source contribution for ***CrewAI-Tools***. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).  
-*  I am currently working as a Machine Learning Engineer at ***Euclid Solutions***, building agentic and ML-based solutions for businesses.  
+*  I made my first ever open-source contribution for ***CrewAI-Tools***. Checkout the [Pull Request](https://github.com/crewAIInc/crewAI-tools/pull/237).
 
 ## Research
 
